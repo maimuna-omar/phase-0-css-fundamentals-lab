@@ -3,3 +3,61 @@ body {
   height: 100%;
   margin: 0;
 }
+<nav style="text-align: center;">
+<a href="index.html" style="padding: 10px; background-color: grey;">About</a>
+<a href="new-properties.html" style="padding: 10px; background-color: grey;">New Properties</a>
+<a href="real-estate-listings.html" style="padding: 10px; background-color: grey;">Listings</a>
+<a href="market-report.html" style="padding: 10px; background-color: grey;">Market Report</a>
+<a href="contact.html" style="padding: 10px; background-color: grey;">Contact</a>
+<a href="http://hud.gov" target="_blank" style="padding: 10px; background-color: grey;">H.U.D.</a>
+</nav>
+</header>
+
+<section id="featured-property" style="text-align: center;">
+<figure>
+<img src="images/intro-pic.jpg" alt="A beautiful living room." title="Welcome to Exceptional Realty Group" style="display: block; margin: 0 auto;">
+<figcaption style="font-size: smaller;">345 Carl Street Apt 12, Carrol Rd. Brooklyn, NY - Photo by Denise Richards.</figcaption>
+</figure>
+
+<div style="width: 800px; margin: 20px auto;">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, perferendis nisi nihil debitis aspernatur doloribus quam eveniet quibusdam tempora esse! Repudiandae, assumenda, debitis doloribus ea eius ab at quae totam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, inventore aliquid ipsam debitis nulla vitae omnis nemo quisquam? Obcaecati dolor ipsum distinctio reprehenderit aliquid autem ea vel provident voluptas nisi.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, natus, nobis, tempore recusandae culpa deleniti dignissimos laborum perspiciatis exercitationem obcaecati dolores unde eveniet eius debitis perferendis provident porro. Ipsum, placeat.</p>
+</div>
+</section>
+
+<section id="details" style="overflow: hidden;">
+<div style="width: 25%; float: left; text-align: center; background-color: lightgray;">
+<h3>Contact</h3>
+<p>
+  <a href="mailto:info@exceptionalrealty.com">info@exceptionalrealty.com</a><br>
+  +1 710 555 1234<br>
+  @fakeRealty
+</p>
+</div>
+
+<div style="width: 25%; float: left; text-align: center; background-color: lightgray;">
+<h3>Correspondence</h3>
+<p>
+  Exceptional Realty<br>
+  P.O. Box 5555<br>
+  Brooklyn, NY 
+</p>
+</div>
+
+<div style="width: 25%; float: left; text-align: center; background-color: lightgray;">
+ <h3>Links</h3>
+<p>
+  Home Restoration<br>
+  Affordable Mortgages<br>
+  Professional Moving Crew
+
+</p>
+</div>
+
+<div style="width: 25%; float: left; text-align: center; background-color: lightgray;">
+ <h3>Follow</h3>
+ <p>
+  YouTube<br>
+   Facebook<br>
+  Twitter
+          
